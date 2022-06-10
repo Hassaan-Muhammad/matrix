@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+    color: white;
+}
+h2{
+    color: red;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    background-color: black;
+    color: white;
+}
